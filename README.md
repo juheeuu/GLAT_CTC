@@ -1,6 +1,7 @@
 # GLAT-CTC-pytorch 
 
 Unofficial implementation of ACL2021 paper "Glancing Transformer for Non-Autoregressive Neural Machine Translation" in pytorch 
+https://aclanthology.org/2021.acl-long.155.pdf
 
 Some part of the codes of in this repository come from 
 - https://github.com/FLC777/GLAT (Original GLAT)
